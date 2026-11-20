@@ -1,13 +1,6 @@
 # Position Control of a Rotary Disc (Quanser QUBE-Servo 3)
 
-**EE302: Control Systems Laboratory — Final End-Semester Project (Problem Statement 6)**  
-**Group 20**
-
-### Group Members
-- **Amey Ballal** (B24328)
-- **Vikrant Singh** (B24296)
-- **Vipin Nokhwal** (B24297)
-- **Vishal Nath** (B24298)
+**EE302: Control Systems Laboratory — Final End-Semester Project (Problem Statement 6)**
 
 ---
 
@@ -121,7 +114,7 @@ $$\omega_n = \sqrt{\frac{K_p K}{\tau}}, \qquad 2\zeta\omega_n = \frac{1}{\tau} \
 
 ```text
 ├── Position Control of a Rotary Disc.pdf               # Lab project problem statement & requirements
-├── Position Control of a Rotary Disc_presentation.pdf  # Final presentation slides (Group 20)
+├── Position Control of a Rotary Disc_presentation.pdf  # Final project presentation slides
 ├── README.md                                           # Comprehensive project documentation
 ├── practice.m                                          # System identification & least-squares fitting script
 ├── generate_staircase.m                                # Staircase signal generation & validation script
